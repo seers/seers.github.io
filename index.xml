@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>My New Hugo Site</title>
+		<title>Zepp</title>
 		<link>https://hushi.me/</link>
-		<description>Recent content on My New Hugo Site</description>
+		<description>Recent content on Zepp</description>
 		<generator>Hugo 0.104.2 -- gohugo.io</generator>
 		<language>en-us</language>
 		<atom:link href="https://hushi.me/index.xml" rel="self" type="application/rss+xml" />
