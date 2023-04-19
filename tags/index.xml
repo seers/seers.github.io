@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Tags on Zepp</title>
+		<title>Tags on Hushi</title>
 		<link>https://hushi.me/tags/</link>
-		<description>Recent content in Tags on Zepp</description>
+		<description>Recent content in Tags on Hushi</description>
 		<generator>Hugo 0.104.2 -- gohugo.io</generator>
 		<language>en-us</language>
 		<atom:link href="https://hushi.me/tags/index.xml" rel="self" type="application/rss+xml" />
